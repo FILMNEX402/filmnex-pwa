@@ -1,0 +1,15 @@
+{
+  "name": "FILMNEX",
+  "short_name": "FILMNEX",
+  "start_url": "https://fi1mnex.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYuaXSrD6rzhDfuuhTWfYtYjpmGIIN2NpgZ8cP0B6Ox115w7HIxAzXwTnJMMq1QBkiijjugknrKc2Rk85z4udWN9MV6ADQJMHQq0AgOa4zkgp8SWwaQUGjC68QxrRGKXSmke91V6cfpLMYoBuB2W8g3Khc5FXE1lMz9t0wPkfwGgT7ZMf869FGfKbm26is/s512/WhatsApp%20Image%202025-07-03%20at%2017.01.35_81b8c785.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
