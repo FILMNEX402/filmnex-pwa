@@ -1,9 +1,9 @@
 {
   "id": "/filmnex-app",
-  "name": "FILMNEX - Watch Movies & Web Series",
+  "name": "FILMNEX - Watch Movies &amp; Web Series",
   "short_name": "FILMNEX",
   "start_url": "https://fi1mnex.blogspot.com/",
-  "scope": "/",
+  "scope": "https://fi1mnex.blogspot.com/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#000000",
@@ -30,6 +30,19 @@
       "type": "image/jpeg"
     }
   ],
-  "categories": ["entertainment", "video", "media"],
-  "lang": "en"
+  "categories": [
+    "entertainment",
+    "video",
+    "media"
+  ],
+  "lang": "en",
+  "dir": "auto",
+  "display_override": [
+    "fullscreen",
+    "standalone",
+    "browser",
+    "window-controls-overlay"
+  ],
+  "iarc_rating_id": "18",
+  "prefer_related_applications": false
 }
