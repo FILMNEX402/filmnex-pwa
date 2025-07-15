@@ -1,7 +1,7 @@
 const CACHE_NAME = 'filmnex-cache-v1';
 const urlsToCache = [
   '/',
-  'https://www.filmnex.online/'
+  'https://fi1mnex.blogspot.com/'
 ];
 
 // Install: cache core assets
